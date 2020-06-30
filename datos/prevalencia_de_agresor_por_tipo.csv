@@ -1,0 +1,53 @@
+Agresor,Tipo,Prevalencia
+Padre,Emocional,0.159855449
+Madre,Emocional,0.14260374
+Padrastro / madrastra,Emocional,0.016552181
+Abuelo(a),Emocional,0.02406324
+Hijo(a),Emocional,0.059203935
+Hermano(a),Emocional,0.252571387
+Tío(a),Emocional,0.060200226
+Primo(a),Emocional,0.043633544
+Suegro(a),Emocional,0.054218855
+Cuñado(a),Emocional,0.063610991
+Sobrino(a),Emocional,0.025858313
+Yerno,Emocional,0.008331093
+Otro familiar,Emocional,0.089261296
+Padre,Física,0.112179877
+Madre,Física,0.140896822
+Padrastro / madrastra,Física,0.015441367
+Abuelo(a),Física,0.013405526
+Hijo(a),Física,0.036005636
+Hermano(a),Física,0.395820729
+Tío(a),Física,0.042103841
+Primo(a),Física,0.078721021
+Suegro(a),Física,0.014908536
+Cuñado(a),Física,0.043155995
+Sobrino(a),Física,0.035620917
+Yerno,Física,0.004035817
+Otro familiar,Física,0.067703916
+Padre,Económica o patrimonial,0.227284246
+Madre,Económica o patrimonial,0.198890224
+Padrastro / madrastra,Económica o patrimonial,0.017458062
+Abuelo(a),Económica o patrimonial,0.027448091
+Hijo(a),Económica o patrimonial,0.080433891
+Hermano(a),Económica o patrimonial,0.183635924
+Tío(a),Económica o patrimonial,0.034143686
+Primo(a),Económica o patrimonial,0.023216011
+Suegro(a),Económica o patrimonial,0.037629645
+Cuñado(a),Económica o patrimonial,0.037365018
+Sobrino(a),Económica o patrimonial,0.020096533
+Yerno,Económica o patrimonial,0.002452306
+Otro familiar,Económica o patrimonial,0.109843534
+Padre,Sexual,0.066899155
+Madre,Sexual,0.009605406
+Padrastro / madrastra,Sexual,0.044381192
+Abuelo(a),Sexual,0.031228401
+Hijo(a),Sexual,0.005050813
+Hermano(a),Sexual,0.100219755
+Tío(a),Sexual,0.244018281
+Primo(a),Sexual,0.214548312
+Suegro(a),Sexual,0.013022828
+Cuñado(a),Sexual,0.069514157
+Sobrino(a),Sexual,0.014176737
+Yerno,Sexual,0.008420976
+Otro familiar,Sexual,0.178119443
